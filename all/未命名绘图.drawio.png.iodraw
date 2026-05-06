@@ -20,7 +20,7 @@
           <mxGeometry x="1015" y="420" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-57" value="对 \(t^*\) 左右两个区间&lt;br&gt;分别进行二分搜索" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="420" width="260" height="70" as="geometry" />
+          <mxGeometry x="640" y="415" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-58" value="区间宽度小于&lt;br&gt;精度 \(\varepsilon_0\)" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="365" width="170" height="170" as="geometry" />
