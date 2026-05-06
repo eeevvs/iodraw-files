@@ -8,10 +8,10 @@
           <mxGeometry x="75" y="215" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-53" value="设置初始时间点集&lt;br&gt;\(S_0=t_b,t_b+10,\)&lt;br&gt;\(t_b+20\)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="378" y="212" width="230" height="80" as="geometry" />
+          <mxGeometry x="378" y="210" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-54" value="生成测试点并计算&lt;br&gt;遮蔽状态 \(C(t)\)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="205" width="230" height="80" as="geometry" />
+          <mxGeometry x="660" y="210" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-55" value="\(C(t)=1\)" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="996" y="172" width="160" height="160" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="765" y="47.5" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-61" value="精度是否合格" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="418" y="-5" width="170" height="170" as="geometry" />
+          <mxGeometry x="418" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-62" value="结束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="40" width="150" height="70" as="geometry" />
+          <mxGeometry x="70" y="50" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-63" style="endArrow=block;html=1;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S9OcDrAsYTATuGT5rY7b-52" target="S9OcDrAsYTATuGT5rY7b-53">
           <mxGeometry relative="1" as="geometry" />
