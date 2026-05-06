@@ -69,10 +69,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-71" value="否" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S9OcDrAsYTATuGT5rY7b-55" target="S9OcDrAsYTATuGT5rY7b-60">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0049" y="-15" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1074" y="90" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-72" style="endArrow=block;html=1;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S9OcDrAsYTATuGT5rY7b-60" target="S9OcDrAsYTATuGT5rY7b-61">
