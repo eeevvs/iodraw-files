@@ -8,7 +8,7 @@
           <mxGeometry x="75" y="239" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-53" value="设置初始时间点集&lt;br&gt;\(S_0=t_b,t_b+10,\)&lt;br&gt;\(t_b+20\)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="377" y="234" width="230" height="80" as="geometry" />
+          <mxGeometry x="378" y="212" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S9OcDrAsYTATuGT5rY7b-54" value="生成测试点并计算&lt;br&gt;遮蔽状态 \(C(t)\)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="205" width="230" height="80" as="geometry" />
